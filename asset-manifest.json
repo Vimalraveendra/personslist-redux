@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ba08516.chunk.css",
-    "main.js": "/static/js/main.2ce4ce6b.chunk.js",
-    "main.js.map": "/static/js/main.2ce4ce6b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.e222a5e5.js",
-    "runtime~main.js.map": "/static/js/runtime~main.e222a5e5.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.c67a4d07.chunk.js": "/static/js/2.c67a4d07.chunk.js",
-    "static/js/2.c67a4d07.chunk.js.map": "/static/js/2.c67a4d07.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.326255e613ecd8114a200fc8dd977f32.js": "/precache-manifest.326255e613ecd8114a200fc8dd977f32.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.3ba08516.chunk.css.map": "/static/css/main.3ba08516.chunk.css.map",
-    "static/media/App.css": "/static/media/Lintsec.df868691.woff"
+    "main.css": "/personslist-redux/static/css/main.252b4a95.chunk.css",
+    "main.js": "/personslist-redux/static/js/main.9c7761c6.chunk.js",
+    "main.js.map": "/personslist-redux/static/js/main.9c7761c6.chunk.js.map",
+    "runtime~main.js": "/personslist-redux/static/js/runtime~main.0ca6c1b8.js",
+    "runtime~main.js.map": "/personslist-redux/static/js/runtime~main.0ca6c1b8.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/personslist-redux/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.c67a4d07.chunk.js": "/personslist-redux/static/js/2.c67a4d07.chunk.js",
+    "static/js/2.c67a4d07.chunk.js.map": "/personslist-redux/static/js/2.c67a4d07.chunk.js.map",
+    "index.html": "/personslist-redux/index.html",
+    "precache-manifest.690d7d5db2122dfff8c51ff56fb9c496.js": "/personslist-redux/precache-manifest.690d7d5db2122dfff8c51ff56fb9c496.js",
+    "service-worker.js": "/personslist-redux/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/personslist-redux/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.252b4a95.chunk.css.map": "/personslist-redux/static/css/main.252b4a95.chunk.css.map",
+    "static/media/App.css": "/personslist-redux/static/media/Lintsec.df868691.woff"
   }
 }
