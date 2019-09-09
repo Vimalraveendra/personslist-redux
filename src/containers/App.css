@@ -14,6 +14,12 @@ h1{
   color: #6A266F;
 
 }
+h2{
+	font-size: 20px;
+}
+h3{
+	color: red;
+}
 P{
    font-family: 'Kaushan Script', cursive;
    color: #A8383B;

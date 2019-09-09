@@ -6,8 +6,8 @@ import {REQUEST_PERSONS_PENDING,
 
    export const searchPersons = ()=>(dispatch)=>{
    	dispatch({type:REQUEST_PERSONS_PENDING})
-   	fetch('https://jsonplaceholder.typicode.com/users')
+   	fetch('https://randomuser.me/api/?&nat=gb&results=20')
     .then(response=>response.json())
-    .then(data=>dispatch({type:REQUEST_PERSONS_SUCCESS, payload:data}))
+    .then(data=>dispatch({type:REQUEST_PERSONS_SUCCESS, payload:data.results}))
     .catch(error=>dispatch({type:REQUEST_PERSONS_FAILED,payload:error}))
    }

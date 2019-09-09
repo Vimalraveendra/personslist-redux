@@ -28,7 +28,9 @@ class App extends Component {
   return (
     <div >
       <h1 className='tc'>Personal List</h1>
+
        <PersonsList  personsArray={this.props.persons}/>
+      
      
     </div>
   );
