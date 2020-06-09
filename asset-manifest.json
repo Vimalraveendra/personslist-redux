@@ -1,26 +1,18 @@
 {
   "files": {
-    "main.css": "/personslist-redux/static/css/main.ffa96458.chunk.css",
-    "main.js": "/personslist-redux/static/js/main.fb4af64a.chunk.js",
-    "main.js.map": "/personslist-redux/static/js/main.fb4af64a.chunk.js.map",
-    "runtime-main.js": "/personslist-redux/static/js/runtime-main.f354827a.js",
-    "runtime-main.js.map": "/personslist-redux/static/js/runtime-main.f354827a.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/personslist-redux/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.6b80ca26.chunk.js": "/personslist-redux/static/js/2.6b80ca26.chunk.js",
-    "static/js/2.6b80ca26.chunk.js.map": "/personslist-redux/static/js/2.6b80ca26.chunk.js.map",
+    "main.css": "/personslist-redux/static/css/main.9f95d481.chunk.css",
+    "main.js": "/personslist-redux/static/js/main.6b17d2a2.chunk.js",
+    "main.js.map": "/personslist-redux/static/js/main.6b17d2a2.chunk.js.map",
+    "runtime~main.js": "/personslist-redux/static/js/runtime~main.62f7c1fb.js",
+    "runtime~main.js.map": "/personslist-redux/static/js/runtime~main.62f7c1fb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/personslist-redux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f50667a7.chunk.js": "/personslist-redux/static/js/2.f50667a7.chunk.js",
+    "static/js/2.f50667a7.chunk.js.map": "/personslist-redux/static/js/2.f50667a7.chunk.js.map",
     "index.html": "/personslist-redux/index.html",
-    "precache-manifest.fc6a7e724ff09413775a5ffa70086c86.js": "/personslist-redux/precache-manifest.fc6a7e724ff09413775a5ffa70086c86.js",
+    "precache-manifest.2388944e1d12c383d76805ded17bc2b2.js": "/personslist-redux/precache-manifest.2388944e1d12c383d76805ded17bc2b2.js",
     "service-worker.js": "/personslist-redux/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/personslist-redux/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.ffa96458.chunk.css.map": "/personslist-redux/static/css/main.ffa96458.chunk.css.map",
-    "static/js/2.6b80ca26.chunk.js.LICENSE": "/personslist-redux/static/js/2.6b80ca26.chunk.js.LICENSE",
+    "static/css/2.3c03f26f.chunk.css.map": "/personslist-redux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9f95d481.chunk.css.map": "/personslist-redux/static/css/main.9f95d481.chunk.css.map",
     "static/media/App.css": "/personslist-redux/static/media/Lintsec.df868691.woff"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.f354827a.js",
-    "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.6b80ca26.chunk.js",
-    "static/css/main.ffa96458.chunk.css",
-    "static/js/main.fb4af64a.chunk.js"
-  ]
+  }
 }
