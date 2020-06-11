@@ -22,3 +22,22 @@ P {
   font-family: "Kaushan Script", cursive;
   color: #a8383b;
 }
+
+/* when the browser width greater than 700px, the image is 10vw */
+
+@media (min-width: 900px) {
+  img {
+    width: 15vw;
+  }
+}
+@media (max-width: 900px) {
+  img {
+    width: 25vw;
+  }
+}
+/* when the browser width less than 400px , the image is 50vw */
+@media (max-width: 700px) {
+  img {
+    width: 50vw;
+  }
+}
