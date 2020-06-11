@@ -7,7 +7,8 @@ const Person = ({ firstName, lastName, img, email, city, cell }) => {
         className="br3"
         alt="person"
         src={img}
-        srcSet={img + " 100w , " + img + " 200w ,"}
+        srcSet={img + " 480w, " + img + " 640w ," + img + " 960w ,"}
+        sizes="100vw"
       />
       <div>
         <h2>
