@@ -3,7 +3,7 @@ import React from "react";
 const Person = ({ firstName, lastName, img, email, city, cell }) => {
   return (
     <div className="tc bg-light-green br3 pa3 ma2 grow bw2 shadow-5">
-      <img className="br3" alt="person" src={img} />
+      <img className="br3" width="148" height="148" alt="person" src={img} />
       <div>
         <h2>
           {firstName} {lastName}
