@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea21f9893d21c9dd74d20cea7bd8e44f",
+    "revision": "56f6308d3ab26a5925c6895370bafa84",
     "url": "/personslist-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personslist-redux/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "0ffc8487254a988e53d2",
+    "revision": "1ad4eaa84555758c2835",
     "url": "/personslist-redux/static/css/main.6830fc5e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personslist-redux/static/js/2.f50667a7.chunk.js"
   },
   {
-    "revision": "0ffc8487254a988e53d2",
-    "url": "/personslist-redux/static/js/main.d1c6c671.chunk.js"
+    "revision": "1ad4eaa84555758c2835",
+    "url": "/personslist-redux/static/js/main.5c9d746b.chunk.js"
   },
   {
     "revision": "da39fee5b8e1af5e011b",
