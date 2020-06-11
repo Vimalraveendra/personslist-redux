@@ -22,3 +22,8 @@ P {
   font-family: "Kaushan Script", cursive;
   color: #a8383b;
 }
+
+img {
+  width: 70%;
+  height: auto;
+}
