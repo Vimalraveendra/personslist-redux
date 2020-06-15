@@ -1,6 +1,6 @@
 {
-  "short_name": "Persons-List",
-  "name": "Persons-List App",
+  "short_name": "Persons List",
+  "name": "Persons List ",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,13 @@
       "type": "image/x-icon"
     },
     {
-      "src": "pwa-192x192.png",
+      "src": "Person_192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "pwa-512x512.png",
+      "src": "Person_512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
