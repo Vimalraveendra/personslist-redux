@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Persons List",
+    "short_name": "Persons List",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
