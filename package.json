@@ -14,7 +14,11 @@
     "redux-thunk": "^2.3.0",
     "serialize-javascript": "^4.0.0",
     "tachyons": "^4.11.1",
-    "dot-prop": ">=4.2.1"
+    "dot-prop": "^4.2.1",
+    "node-forge": ">=0.10.0",
+    "yargs-parser": ">=13.1.2",
+    "http-proxy": ">=1.18.1",
+    "handlebars": ">=4.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
